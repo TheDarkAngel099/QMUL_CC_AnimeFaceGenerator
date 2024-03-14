@@ -4,7 +4,7 @@ This repository contains code for generating anime faces using Generative Advers
 
 ## Overview
 
-Generative Adversarial Networks (GANs) are a class of artificial intelligence algorithms used in unsupervised machine learning, implemented by a system of two neural networks contesting with each other in a zero-sum game framework. This project specifically focuses on generating anime faces using GANs.
+Generative Adversarial Networks (GANs) are a class of artificial intelligence algorithms used in unsupervised machine learning, implemented by a system of two neural networks contesting with each other in a zero-sum game framework. This project focuses explicitly on generating anime faces using GANs.
 
 ## Features
 
@@ -33,3 +33,4 @@ You can generate anime faces using the pre-trained GAN model by following these 
 - `ColabNotebook/`: Colab Notebook for interactive exploration and generation of anime faces.
 - `Outputs/`: Directory for stored generated anime faces.
 - `Report/`: My report.
+- `Saved Models/`: Directory with pre-trained model.
